@@ -6,7 +6,7 @@ require (
 	github.com/go-ruby-abbrev/abbrev v0.0.0-20260629150957-97117892cd38
 	github.com/go-ruby-base64/base64 v0.0.0-20260630081041-5dec54f20f53
 	github.com/go-ruby-benchmark/benchmark v0.0.0-20260630081339-0d8f1c26e378
-	github.com/go-ruby-bigdecimal/bigdecimal v0.0.0-20260629113642-660c01ff39c4
+	github.com/go-ruby-bigdecimal/bigdecimal v0.0.0-20260717062419-05e9199217e8
 	github.com/go-ruby-cgi/cgi v0.0.0-20260629151926-ac1c4d37a56c
 	github.com/go-ruby-cmath/cmath v0.0.0-20260629152837-67a84137d824
 	github.com/go-ruby-complex/complex v0.0.0-20260629153304-ebcd523ce6cf
