@@ -4,7 +4,7 @@ go 1.26.4
 
 require (
 	github.com/go-ruby-abbrev/abbrev v0.0.0-20260629150957-97117892cd38
-	github.com/go-ruby-base64/base64 v0.0.0-20260630081041-5dec54f20f53
+	github.com/go-ruby-base64/base64 v0.0.0-20260717062030-720dc2ab4d02
 	github.com/go-ruby-benchmark/benchmark v0.0.0-20260630081339-0d8f1c26e378
 	github.com/go-ruby-bigdecimal/bigdecimal v0.0.0-20260717062419-05e9199217e8
 	github.com/go-ruby-cgi/cgi v0.0.0-20260629151926-ac1c4d37a56c
@@ -49,7 +49,7 @@ require (
 )
 
 require (
-	github.com/go-simd/base64 v0.0.0-20260627054622-4058a7093f4c // indirect
+	github.com/go-simd/base64 v0.0.0-20260703160615-1d0b2dddc996 // indirect
 	github.com/go-simd/hex v0.0.0-20260627054622-d04d429c6aea // indirect
 	github.com/klauspost/compress v1.18.7 // indirect
 	golang.org/x/crypto v0.53.0 // indirect
