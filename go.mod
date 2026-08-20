@@ -12,7 +12,7 @@ require (
 	github.com/go-ruby-complex/complex v0.0.0-20260629153304-ebcd523ce6cf
 	github.com/go-ruby-csv/csv v0.0.0-20260629114549-c624fdf379cc
 	github.com/go-ruby-date/date v0.0.0-20260629114559-23a5251a54e4
-	github.com/go-ruby-did-you-mean/did-you-mean v0.0.0-20260629152232-d6815db959e9
+	github.com/go-ruby-did-you-mean/did-you-mean v0.0.0-20260717063932-c1bcb7f2c2eb
 	github.com/go-ruby-digest/digest v0.0.0-20260629113522-e22d22431111
 	github.com/go-ruby-erb/erb v0.0.0-20260629074717-0999ae4dd529
 	github.com/go-ruby-find/find v0.0.0-20260630081030-35072d185272
