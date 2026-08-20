@@ -18,6 +18,8 @@ github.com/go-ruby-complex/complex v0.0.0-20260629153304-ebcd523ce6cf h1:3BUpAnv
 github.com/go-ruby-complex/complex v0.0.0-20260629153304-ebcd523ce6cf/go.mod h1:SlQrQ0OgZRrWi2slZEzjUOPqt09g7NvBmTFXfJRZigY=
 github.com/go-ruby-csv/csv v0.0.0-20260629114549-c624fdf379cc h1:XAxewcVViNLEjBSEu6xI5rfDw7lv99hqNy8jzT5mr+I=
 github.com/go-ruby-csv/csv v0.0.0-20260629114549-c624fdf379cc/go.mod h1:vvfFJGcGOK37vnBikohtzboL6dIfbsr54+2Ri0HkWwk=
+github.com/go-ruby-csv/csv v0.0.0-20260717063450-c0e361e4d3ee h1:onqW68bntEame4+iCxLbWPizZ58F1JafoA5OmmF3lM4=
+github.com/go-ruby-csv/csv v0.0.0-20260717063450-c0e361e4d3ee/go.mod h1:vvfFJGcGOK37vnBikohtzboL6dIfbsr54+2Ri0HkWwk=
 github.com/go-ruby-date/date v0.0.0-20260629114559-23a5251a54e4 h1:Qyl2DRWnEC65Y7EI6TB9vIHzQmkySJrIF5uzBu3YdKw=
 github.com/go-ruby-date/date v0.0.0-20260629114559-23a5251a54e4/go.mod h1:kn4XWlGthyqF+ogp9Tmj9EYLmvZa3Yb9Eqnfdsgu63Y=
 github.com/go-ruby-did-you-mean/did-you-mean v0.0.0-20260629152232-d6815db959e9 h1:6chWND+L2l7xqFlGUfv732oUBBOVs8WsMvKt8z7HJBE=
