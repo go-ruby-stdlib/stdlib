@@ -22,6 +22,8 @@ github.com/go-ruby-cmath/cmath v0.0.0-20260717063021-5f2ebb903ff8 h1:P0341Wa52CV
 github.com/go-ruby-cmath/cmath v0.0.0-20260717063021-5f2ebb903ff8/go.mod h1:djGUM2WR7AdnZqeRg/OQ4xVzmsl8PAWQKILX2n/foas=
 github.com/go-ruby-complex/complex v0.0.0-20260629153304-ebcd523ce6cf h1:3BUpAnvI2wNUrLTKSoUJxDqPG7G1E2WKCrm/yFa9FGw=
 github.com/go-ruby-complex/complex v0.0.0-20260629153304-ebcd523ce6cf/go.mod h1:SlQrQ0OgZRrWi2slZEzjUOPqt09g7NvBmTFXfJRZigY=
+github.com/go-ruby-complex/complex v0.0.0-20260717063207-ad262f45ef90 h1:+7S3XskOZttL/zoFHFkMa13l9Z4IK30Am6OXjS6seDo=
+github.com/go-ruby-complex/complex v0.0.0-20260717063207-ad262f45ef90/go.mod h1:SlQrQ0OgZRrWi2slZEzjUOPqt09g7NvBmTFXfJRZigY=
 github.com/go-ruby-csv/csv v0.0.0-20260629114549-c624fdf379cc h1:XAxewcVViNLEjBSEu6xI5rfDw7lv99hqNy8jzT5mr+I=
 github.com/go-ruby-csv/csv v0.0.0-20260629114549-c624fdf379cc/go.mod h1:vvfFJGcGOK37vnBikohtzboL6dIfbsr54+2Ri0HkWwk=
 github.com/go-ruby-csv/csv v0.0.0-20260717063450-c0e361e4d3ee h1:onqW68bntEame4+iCxLbWPizZ58F1JafoA5OmmF3lM4=
