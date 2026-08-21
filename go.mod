@@ -21,7 +21,7 @@ require (
 	github.com/go-ruby-ipaddr/ipaddr v0.0.0-20260630052208-78ca85dc054b
 	github.com/go-ruby-json/json v0.0.0-20260630210255-96013117f0d5
 	github.com/go-ruby-logger/logger v0.0.0-20260630081511-870e2ee3f277
-	github.com/go-ruby-marshal/marshal v0.0.0-20260622114304-27ed1baddd9f
+	github.com/go-ruby-marshal/marshal v0.0.0-20260820215345-e25f276d2451
 	github.com/go-ruby-matrix/matrix v0.0.0-20260630052510-d60a23f08aca
 	github.com/go-ruby-observer/observer v0.0.0-20260630080708-c3a02da51f79
 	github.com/go-ruby-optparse/optparse v0.0.0-20260629093110-6b69a6b03546
