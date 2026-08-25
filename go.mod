@@ -9,7 +9,7 @@ require (
 	github.com/go-ruby-bigdecimal/bigdecimal v0.0.0-20260717062419-05e9199217e8
 	github.com/go-ruby-cgi/cgi v0.0.0-20260717062833-adf35051de76
 	github.com/go-ruby-cmath/cmath v0.0.0-20260717063021-5f2ebb903ff8
-	github.com/go-ruby-complex/complex v0.0.0-20260629153304-ebcd523ce6cf
+	github.com/go-ruby-complex/complex v0.0.0-20260717063207-ad262f45ef90
 	github.com/go-ruby-csv/csv v0.0.0-20260717063450-c0e361e4d3ee
 	github.com/go-ruby-date/date v0.0.0-20260629114559-23a5251a54e4
 	github.com/go-ruby-did-you-mean/did-you-mean v0.0.0-20260717063932-c1bcb7f2c2eb
