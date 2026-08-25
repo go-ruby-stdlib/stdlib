@@ -36,6 +36,8 @@ github.com/go-ruby-did-you-mean/did-you-mean v0.0.0-20260717063932-c1bcb7f2c2eb 
 github.com/go-ruby-did-you-mean/did-you-mean v0.0.0-20260717063932-c1bcb7f2c2eb/go.mod h1:8I30lj4s9N0MCztmdJdCyMRCfK5xBBQiWHUwgnK3pIY=
 github.com/go-ruby-digest/digest v0.0.0-20260629113522-e22d22431111 h1:pxsFN2ESynf6yWyy9Z1pX02H042YyC5ILsIVN89wPTU=
 github.com/go-ruby-digest/digest v0.0.0-20260629113522-e22d22431111/go.mod h1:Et3sL9ojvqpOBFth/n1pryhkJzr9DvYYQ23g3rUJ0N4=
+github.com/go-ruby-digest/digest v0.0.0-20260820044857-accf37ff95d3 h1:p3jWa6DCwAc0gh9QcYSM//VLKFPUaPETDEufk3Kw/dc=
+github.com/go-ruby-digest/digest v0.0.0-20260820044857-accf37ff95d3/go.mod h1:ByyE8cJHhbY+NIj0QBDz5VSy3kjctaUm34y8hVPxaYs=
 github.com/go-ruby-erb/erb v0.0.0-20260629074717-0999ae4dd529 h1:md/l6ifEY6S0Iy1nBk5hVt5BhnWJRqhB08gVEsVvS28=
 github.com/go-ruby-erb/erb v0.0.0-20260629074717-0999ae4dd529/go.mod h1:HEJVI7jQ/BnjiSiu2Wj934QboEAgdv47RNOqvZb+nRw=
 github.com/go-ruby-find/find v0.0.0-20260630081030-35072d185272 h1:tHmlER04rO8LxFWbDiKqcFDzB4WFzBio/c6kgeOdpGo=
@@ -114,7 +116,13 @@ github.com/tmthrgd/go-hex v0.0.0-20190904060850-447a3041c3bc h1:9lRDQMhESg+zvGYm
 github.com/tmthrgd/go-hex v0.0.0-20190904060850-447a3041c3bc/go.mod h1:bciPuU6GHm1iF1pBvUfxfsH0Wmnc2VbpgvbI9ZWuIRs=
 golang.org/x/crypto v0.53.0 h1:QZ4Muo8THX6CizN2vPPd5fBGHyogrdK9fG4wLPFUsto=
 golang.org/x/crypto v0.53.0/go.mod h1:DNLU434OwVakk9PzuwV8w62mAJpRJL3vsgcfp4Qnsio=
+golang.org/x/crypto v0.55.0 h1:+KWHjbgOaAQ66dh/YlkZKHlz9ZUlq61AFirAR9ntP8M=
+golang.org/x/crypto v0.55.0/go.mod h1:uq0V9dE/fzQuJtbnL+2EhWOE63vo164FY8xqEnV9xis=
 golang.org/x/sys v0.46.0 h1:noSf2Fq6F8DBgS+LysIkx7rIExoNHJsxOAtPp4rthXw=
 golang.org/x/sys v0.46.0/go.mod h1:4GL1E5IUh+htKOUEOaiffhrAeqysfVGipDYzABqnCmw=
+golang.org/x/sys v0.47.0 h1:o7XGOvZQCADBQQ4Y7VNq2dRWQR7JmOUW8Kxx4ZsNgWs=
+golang.org/x/sys v0.47.0/go.mod h1:4GL1E5IUh+htKOUEOaiffhrAeqysfVGipDYzABqnCmw=
 golang.org/x/text v0.38.0 h1:sXmwo9DwP3OK9EZ7PqAdaooSGozfl/3a6/xJcbzPRhE=
 golang.org/x/text v0.38.0/go.mod h1:YXZt3QhHUKYT53r2lLKFIVi6Ao1jdzrTR/KQ09qyxF4=
+golang.org/x/text v0.41.0 h1:vz/seA0lnX87Othu2f/0L24RcgrXD9/YFTSuGjj3rH8=
+golang.org/x/text v0.41.0/go.mod h1:jvf1O8ajNzZqhSrQBPbutR/EB83Cc0CFrezNQIwbb5M=
