@@ -14,6 +14,8 @@ github.com/go-ruby-base64/base64 v0.0.0-20260820220038-f94a454ec53a h1:s1oz5/RFM
 github.com/go-ruby-base64/base64 v0.0.0-20260820220038-f94a454ec53a/go.mod h1:FJYchDpreeQldaqviSgPOeMN/xXzQ4OGmePT4B4wzx4=
 github.com/go-ruby-benchmark/benchmark v0.0.0-20260630081339-0d8f1c26e378 h1:tn4iqFZc2KhoZ4iamcqdT+dYYiDef0RhmSbBNjPVRGk=
 github.com/go-ruby-benchmark/benchmark v0.0.0-20260630081339-0d8f1c26e378/go.mod h1:xTLuIsErHXTxzLBJkUz5J07NwY58QJ75j2Ww4DQGFEM=
+github.com/go-ruby-benchmark/benchmark v0.0.0-20260717062257-3cc267fbe9b3 h1:zwiec5z+7x7tGeTc4j9UnCBj7BrEiFpLtedhFRTny8s=
+github.com/go-ruby-benchmark/benchmark v0.0.0-20260717062257-3cc267fbe9b3/go.mod h1:xTLuIsErHXTxzLBJkUz5J07NwY58QJ75j2Ww4DQGFEM=
 github.com/go-ruby-bigdecimal/bigdecimal v0.0.0-20260629113642-660c01ff39c4 h1:XHJOnSV9GH1+gh1/SqRsskjncBzx2NUO00G8vaX5XKA=
 github.com/go-ruby-bigdecimal/bigdecimal v0.0.0-20260629113642-660c01ff39c4/go.mod h1:op9nu6Z2gvH8/phs7iJZQWNvUnT2DkJV8wBAl1l0kfE=
 github.com/go-ruby-bigdecimal/bigdecimal v0.0.0-20260717062419-05e9199217e8 h1:mGbEqa3C0JiCbewQgdClFdA6kUpyptPAzyF0yhQpbYA=

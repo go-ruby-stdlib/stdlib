@@ -5,7 +5,7 @@ go 1.26.4
 require (
 	github.com/go-ruby-abbrev/abbrev v0.0.0-20260717061206-761e82f6c6c3
 	github.com/go-ruby-base64/base64 v0.0.0-20260820220038-f94a454ec53a
-	github.com/go-ruby-benchmark/benchmark v0.0.0-20260630081339-0d8f1c26e378
+	github.com/go-ruby-benchmark/benchmark v0.0.0-20260717062257-3cc267fbe9b3
 	github.com/go-ruby-bigdecimal/bigdecimal v0.0.0-20260717062419-05e9199217e8
 	github.com/go-ruby-cgi/cgi v0.0.0-20260717062833-adf35051de76
 	github.com/go-ruby-cmath/cmath v0.0.0-20260717063021-5f2ebb903ff8
