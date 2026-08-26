@@ -4,6 +4,8 @@ github.com/emmansun/base64 v0.6.2 h1:Qd/W1hAs9kzcWmBozAOhlxFrjnZQR2dBN4og7WMInFs
 github.com/emmansun/base64 v0.6.2/go.mod h1:EjgM1HylRQjG1oaIMsF6+CzHsBCrTBm36890foTOELY=
 github.com/go-ruby-abbrev/abbrev v0.0.0-20260629150957-97117892cd38 h1:j0VAUKCGNUTZVThG4Pi3pgdHXFybwXnY7anpYuKeuH4=
 github.com/go-ruby-abbrev/abbrev v0.0.0-20260629150957-97117892cd38/go.mod h1:PgAtItdQBv87Wog0Q7rnbwhqsupDC0pDXDlZgSv6nvA=
+github.com/go-ruby-abbrev/abbrev v0.0.0-20260717061206-761e82f6c6c3 h1:Kr5v05FTYGi4hzkAw5r+uNlRRX0mBS6nnL1Nom9Yzwc=
+github.com/go-ruby-abbrev/abbrev v0.0.0-20260717061206-761e82f6c6c3/go.mod h1:PgAtItdQBv87Wog0Q7rnbwhqsupDC0pDXDlZgSv6nvA=
 github.com/go-ruby-base64/base64 v0.0.0-20260630081041-5dec54f20f53 h1:MBggShyLWDpr0USQMZvcRvRc+OIcHKFn4ohDnmB3C6k=
 github.com/go-ruby-base64/base64 v0.0.0-20260630081041-5dec54f20f53/go.mod h1:pjBeKtZ2Gpc6Dq9DoDwUYEXehQU2sOpKPWxcrSNr2Cs=
 github.com/go-ruby-base64/base64 v0.0.0-20260717062030-720dc2ab4d02 h1:V5AwVfbxhEJZjISjI2H5TONpMeKNUT5lxIBEnAClcPc=
