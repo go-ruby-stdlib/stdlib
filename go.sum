@@ -62,6 +62,8 @@ github.com/go-ruby-format/format v0.0.0-20260815195335-4038d17b79a1 h1:TgyhqiG4M
 github.com/go-ruby-format/format v0.0.0-20260815195335-4038d17b79a1/go.mod h1:1tuz12SHPOcnFSfdPYRFwVvRhMT4Xn4M4jfPFgM7pLA=
 github.com/go-ruby-getoptlong/getoptlong v0.0.0-20260629150025-1a1bfd19bc49 h1:v2Cy3bZTTi+u9XKBRP8FmYHwsWwZ+t8hlh3s4i1gGfQ=
 github.com/go-ruby-getoptlong/getoptlong v0.0.0-20260629150025-1a1bfd19bc49/go.mod h1:nGvVSBSIsYrhM2qs4yQ2k8uDbXCFPWQXXqkowleHMDs=
+github.com/go-ruby-getoptlong/getoptlong v0.0.0-20260717065132-86577a8b648f h1:8XSjphvk/cjo1PykwmOP1nlPdElZWmF4kD9vE9krkic=
+github.com/go-ruby-getoptlong/getoptlong v0.0.0-20260717065132-86577a8b648f/go.mod h1:nGvVSBSIsYrhM2qs4yQ2k8uDbXCFPWQXXqkowleHMDs=
 github.com/go-ruby-ipaddr/ipaddr v0.0.0-20260630052208-78ca85dc054b h1:1iw1eRBOG7D7jCC/P4hzWllM4IkYiR/jP9Bwuo3ds6c=
 github.com/go-ruby-ipaddr/ipaddr v0.0.0-20260630052208-78ca85dc054b/go.mod h1:NbAjqDjT7Qx83yBMHYGCfPFzi+iAvQtrE3JT3nqS/+U=
 github.com/go-ruby-ipaddr/ipaddr v0.0.0-20260717065751-ac3e17f41c3e h1:05rg2MjIKFRsHXfktv+ey/weC5XWc6JsI6nOL4gAUs0=
