@@ -70,6 +70,8 @@ github.com/go-ruby-ipaddr/ipaddr v0.0.0-20260717065751-ac3e17f41c3e h1:05rg2MjIK
 github.com/go-ruby-ipaddr/ipaddr v0.0.0-20260717065751-ac3e17f41c3e/go.mod h1:NbAjqDjT7Qx83yBMHYGCfPFzi+iAvQtrE3JT3nqS/+U=
 github.com/go-ruby-json/json v0.0.0-20260630210255-96013117f0d5 h1:KFU3OKsop0CF8Zv1TQ9FwGY3fWcdGGCcqJEjx9zxykU=
 github.com/go-ruby-json/json v0.0.0-20260630210255-96013117f0d5/go.mod h1:nHXcH3zaGNmCslZStZVeylXkv1wLp+nzT6qNj+m+QXU=
+github.com/go-ruby-json/json v0.0.0-20260803122801-b23aeb96e6ae h1:cmEWSuke12mKpqI+M9gupv+m/4hNx6P1pE21qfO69tc=
+github.com/go-ruby-json/json v0.0.0-20260803122801-b23aeb96e6ae/go.mod h1:nHXcH3zaGNmCslZStZVeylXkv1wLp+nzT6qNj+m+QXU=
 github.com/go-ruby-logger/logger v0.0.0-20260630081511-870e2ee3f277 h1:XfUzDZqZWgOUTJ22GdwNOgkZB9MZKhxsPTq0xL1u5Io=
 github.com/go-ruby-logger/logger v0.0.0-20260630081511-870e2ee3f277/go.mod h1:9+5E2AAIpErKRtzJ7zqZSfptjlD/XcD/ni6H9jpO37Y=
 github.com/go-ruby-logger/logger v0.0.0-20260717070206-b7582341d8fc h1:iWYzhXffBOztpp45ePVtGvMeWJhxCuz3zkNdaOYbZAQ=
