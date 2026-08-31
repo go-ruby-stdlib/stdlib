@@ -22,7 +22,7 @@ require (
 	github.com/go-ruby-json/json v0.0.0-20260803122801-b23aeb96e6ae
 	github.com/go-ruby-logger/logger v0.0.0-20260717070206-b7582341d8fc
 	github.com/go-ruby-marshal/marshal v0.0.0-20260820215345-e25f276d2451
-	github.com/go-ruby-matrix/matrix v0.0.0-20260630052510-d60a23f08aca
+	github.com/go-ruby-matrix/matrix v0.0.0-20260717070327-18d9569abdf3
 	github.com/go-ruby-observer/observer v0.0.0-20260820220157-5e26c6317a28
 	github.com/go-ruby-optparse/optparse v0.0.0-20260629093110-6b69a6b03546
 	github.com/go-ruby-ostruct/ostruct v0.0.0-20260630080835-69fcd87e76bf
