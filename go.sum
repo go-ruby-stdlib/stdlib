@@ -12,6 +12,8 @@ github.com/go-ruby-base64/base64 v0.0.0-20260717062030-720dc2ab4d02 h1:V5AwVfbxh
 github.com/go-ruby-base64/base64 v0.0.0-20260717062030-720dc2ab4d02/go.mod h1:wAMh7VnlOelf8z8L8ZboqLAL8IX7yiPSyBS2JkSeylk=
 github.com/go-ruby-base64/base64 v0.0.0-20260820220038-f94a454ec53a h1:s1oz5/RFMs7DBTu1kWThjGWrS4g5NFdRjbGCWbxGqKI=
 github.com/go-ruby-base64/base64 v0.0.0-20260820220038-f94a454ec53a/go.mod h1:FJYchDpreeQldaqviSgPOeMN/xXzQ4OGmePT4B4wzx4=
+github.com/go-ruby-base64/base64 v0.0.0-20260830121649-1d6169a5a705 h1:SY0tc3to2o8RqYkoV0niFcA9VF2i8Whpc1CpodV8/vc=
+github.com/go-ruby-base64/base64 v0.0.0-20260830121649-1d6169a5a705/go.mod h1:S3oRlCn58+8n/KFszi/0htFM+JQ/gaYF/rpjSehx8WE=
 github.com/go-ruby-benchmark/benchmark v0.0.0-20260630081339-0d8f1c26e378 h1:tn4iqFZc2KhoZ4iamcqdT+dYYiDef0RhmSbBNjPVRGk=
 github.com/go-ruby-benchmark/benchmark v0.0.0-20260630081339-0d8f1c26e378/go.mod h1:xTLuIsErHXTxzLBJkUz5J07NwY58QJ75j2Ww4DQGFEM=
 github.com/go-ruby-benchmark/benchmark v0.0.0-20260717062257-3cc267fbe9b3 h1:zwiec5z+7x7tGeTc4j9UnCBj7BrEiFpLtedhFRTny8s=
@@ -146,6 +148,8 @@ github.com/go-simd/base64 v0.0.0-20260703160615-1d0b2dddc996 h1:q3fyZ61j/I6dilPP
 github.com/go-simd/base64 v0.0.0-20260703160615-1d0b2dddc996/go.mod h1:/nL/YHcchLkENbcFEEqAcfESIiwCM9/1H67LsSnd7EI=
 github.com/go-simd/base64 v0.0.0-20260806072918-de4c3405addc h1:Obf/Uye4NRmoqgo4Iz4GPOT8xGakGR+sAXF1PZ1QOOE=
 github.com/go-simd/base64 v0.0.0-20260806072918-de4c3405addc/go.mod h1:JNDIFvYDNtSrY/ZjKA8M/O2ggXtAYuxQzsxQ51TvjE0=
+github.com/go-simd/base64 v0.0.0-20260830080008-dcbe0eea954f h1:tw5KWseIlaaiuu5cpAKnw6i3b8LsZcvDE3l23af+Cug=
+github.com/go-simd/base64 v0.0.0-20260830080008-dcbe0eea954f/go.mod h1:JNDIFvYDNtSrY/ZjKA8M/O2ggXtAYuxQzsxQ51TvjE0=
 github.com/go-simd/hex v0.0.0-20260627054622-d04d429c6aea h1:qVh9jV1QriPPfKtAb8au5pmVxKDk5Vl4nQUi/issQM0=
 github.com/go-simd/hex v0.0.0-20260627054622-d04d429c6aea/go.mod h1:q2/BdGuWJ9RahGzN+s+KtyacBAZFX15Nq0IikPFwKw0=
 github.com/klauspost/compress v1.18.7 h1:aUyZsS4kH3QTKurYhAOwAHxllVPnOthb3vPfnF1Ehjw=
