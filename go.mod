@@ -30,7 +30,7 @@ require (
 	github.com/go-ruby-prettyprint/prettyprint v0.0.0-20260717072124-c98cbe80c502
 	github.com/go-ruby-prime/prime v0.0.0-20260629151744-aa26747e21a8
 	github.com/go-ruby-pstore/pstore v0.0.0-20260630081017-0dd55a12f94e
-	github.com/go-ruby-rational/rational v0.0.0-20260629152220-2187d8040bb2
+	github.com/go-ruby-rational/rational v0.0.0-20260717073030-5199d6c61f15
 	github.com/go-ruby-regexp/regexp v0.0.0-20260701043846-fa3d6604e1ee
 	github.com/go-ruby-resolv/resolv v0.0.0-20260717073312-9fce615a7c36
 	github.com/go-ruby-rexml/rexml v0.0.0-20260629154021-5fb0f287ee8b
