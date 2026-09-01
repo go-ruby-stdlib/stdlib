@@ -126,6 +126,8 @@ github.com/go-ruby-securerandom/securerandom v0.0.0-20260630081933-3f81ff7d7fb0 
 github.com/go-ruby-securerandom/securerandom v0.0.0-20260630081933-3f81ff7d7fb0/go.mod h1:xjx6gnzA3xXHkJrJFQDp1pW559J3kJR2e6GPctYg4K4=
 github.com/go-ruby-set/set v0.0.0-20260630204346-ab6a8a92a910 h1:Q41u365suJ1TlrX2mlVHOGBmW904Lwh3mo+WnlVPtno=
 github.com/go-ruby-set/set v0.0.0-20260630204346-ab6a8a92a910/go.mod h1:F/P0PXeE5ybEPeWYfb1JAKWny1Li3dnlm6YxG2/vffE=
+github.com/go-ruby-set/set v0.0.0-20260717074035-1da624a8b0b2 h1:5cD4carf4EMh0969Mb13rUzYe5cj9mcIpoF7BuhCmJs=
+github.com/go-ruby-set/set v0.0.0-20260717074035-1da624a8b0b2/go.mod h1:F/P0PXeE5ybEPeWYfb1JAKWny1Li3dnlm6YxG2/vffE=
 github.com/go-ruby-shellwords/shellwords v0.0.0-20260629114104-e941e4210818 h1:z9b99kWJht8AgtlIbdiq7Y02j6eddxW+rr4MJpCS6kw=
 github.com/go-ruby-shellwords/shellwords v0.0.0-20260629114104-e941e4210818/go.mod h1:gJ+9ba+y8+DKenwjZKbTLVSuX6Xp7V5R7pZ6NwtD6x0=
 github.com/go-ruby-stringio/stringio v0.0.0-20260629145734-db9b0b95e303 h1:8kZAgBT5jV1Q9RVCKgEpqZku8QI3n2qviQU9xlI3sKk=
