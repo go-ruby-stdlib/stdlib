@@ -25,7 +25,7 @@ require (
 	github.com/go-ruby-matrix/matrix v0.0.0-20260717070327-18d9569abdf3
 	github.com/go-ruby-observer/observer v0.0.0-20260820220157-5e26c6317a28
 	github.com/go-ruby-optparse/optparse v0.0.0-20260717071632-da8194087eaf
-	github.com/go-ruby-ostruct/ostruct v0.0.0-20260630080835-69fcd87e76bf
+	github.com/go-ruby-ostruct/ostruct v0.0.0-20260820220107-4de11f016237
 	github.com/go-ruby-pathname/pathname v0.0.0-20260717071958-ef9f4ddd9c32
 	github.com/go-ruby-prettyprint/prettyprint v0.0.0-20260717072124-c98cbe80c502
 	github.com/go-ruby-prime/prime v0.0.0-20260629151744-aa26747e21a8
