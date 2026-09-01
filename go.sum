@@ -142,6 +142,8 @@ github.com/go-ruby-uri/uri v0.0.0-20260629113958-59633d1b0deb h1:CyoFEEsMPa/TX4E
 github.com/go-ruby-uri/uri v0.0.0-20260629113958-59633d1b0deb/go.mod h1:/7+NF+4kESzcNHjRtNe/lAfhgHpgElX4C+VNo0xsb6Y=
 github.com/go-ruby-yaml/yaml v0.0.0-20260629093916-8035038027bd h1:4HGjgCdTIuIEM+iZXJ9hJJzt0IBMtxPqdJq72mr0Y64=
 github.com/go-ruby-yaml/yaml v0.0.0-20260629093916-8035038027bd/go.mod h1:HtbQgnZpSTJBAhPg1jOKgHycZl3tXgf9ZdOu4dnHWjQ=
+github.com/go-ruby-yaml/yaml v0.0.0-20260804155707-9c1d94ea2290 h1:sACndmsnAEQA24MuxXAjrIJGrZGTZEBU+c3pn9qAwWs=
+github.com/go-ruby-yaml/yaml v0.0.0-20260804155707-9c1d94ea2290/go.mod h1:HtbQgnZpSTJBAhPg1jOKgHycZl3tXgf9ZdOu4dnHWjQ=
 github.com/go-ruby-zlib/zlib v0.0.0-20260630195847-fee6c794df58 h1:shnGftlo6rE/od31Ra8XPEduxyjpCWS0/q56EkkiYjM=
 github.com/go-ruby-zlib/zlib v0.0.0-20260630195847-fee6c794df58/go.mod h1:WGW5hh1yjgYm98zeoraLu8DWJ0iRFSU0fNmK8PXQ43M=
 github.com/go-simd/base64 v0.0.0-20260627054622-4058a7093f4c h1:iA1vHw+pR44TUtDlviXz3P8pAExO1nSm39PMZ7MsuYU=
