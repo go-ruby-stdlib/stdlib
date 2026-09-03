@@ -41,7 +41,7 @@ require (
 	github.com/go-ruby-stringio/stringio v0.0.0-20260629145734-db9b0b95e303
 	github.com/go-ruby-strscan/strscan v0.0.0-20260701044334-d0cc926643a8
 	github.com/go-ruby-time/time v0.0.0-20260629145843-c41ecfe3e144
-	github.com/go-ruby-tsort/tsort v0.0.0-20260629151245-27c44f985c8b
+	github.com/go-ruby-tsort/tsort v0.0.0-20260717075041-e5642bd3f641
 	github.com/go-ruby-unicode-normalize/unicode-normalize v0.0.0-20260629152419-984d3fbcfb7f
 	github.com/go-ruby-uri/uri v0.0.0-20260629113958-59633d1b0deb
 	github.com/go-ruby-yaml/yaml v0.0.0-20260629093916-8035038027bd
