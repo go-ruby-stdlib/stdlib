@@ -146,6 +146,8 @@ github.com/go-ruby-strscan/strscan v0.0.0-20260701044334-d0cc926643a8 h1:WxInOHC
 github.com/go-ruby-strscan/strscan v0.0.0-20260701044334-d0cc926643a8/go.mod h1:WNa2NtlvT8gaOrAw6m3VCb+8WgBWdOLLEWbKiugZ2wY=
 github.com/go-ruby-time/time v0.0.0-20260629145843-c41ecfe3e144 h1:h33p+sKyi5u2Dy3anHTNMWwoOQxlBmmZoQmrow88mfI=
 github.com/go-ruby-time/time v0.0.0-20260629145843-c41ecfe3e144/go.mod h1:ySdzVsApzpx+/W/h9++Lr83xb/0y3I5apspJdonKT1Y=
+github.com/go-ruby-time/time v0.0.0-20260717074921-2d91cce39b86 h1:QulM5rupuMg1atityanJ+ArxHH0Lh1ofEhwaeyqydIc=
+github.com/go-ruby-time/time v0.0.0-20260717074921-2d91cce39b86/go.mod h1:ySdzVsApzpx+/W/h9++Lr83xb/0y3I5apspJdonKT1Y=
 github.com/go-ruby-tsort/tsort v0.0.0-20260629151245-27c44f985c8b h1:qTw5CoNYJccf05o0QlyoYwaOik4RIrUI76HAR7RGqRw=
 github.com/go-ruby-tsort/tsort v0.0.0-20260629151245-27c44f985c8b/go.mod h1:QMZn01XgIYihSr1pAeqHtM5DNuf7q92rJzO1Uj1diwE=
 github.com/go-ruby-tsort/tsort v0.0.0-20260717075041-e5642bd3f641 h1:CQKh5MyT2hC2pFzbYLiAJi006zC2aNFaDp6I6ECn8N4=
