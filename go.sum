@@ -2,6 +2,8 @@ github.com/cristalhq/base64 v0.1.2 h1:edsefYyYDiac7Ytdh2xdaiiSSJzcI2f0yIkdGEf1qY
 github.com/cristalhq/base64 v0.1.2/go.mod h1:sy4+2Hale2KbtSqkzpdMeYTP/IrB+HCvxVHWsh2VSYk=
 github.com/emmansun/base64 v0.6.2 h1:Qd/W1hAs9kzcWmBozAOhlxFrjnZQR2dBN4og7WMInFs=
 github.com/emmansun/base64 v0.6.2/go.mod h1:EjgM1HylRQjG1oaIMsF6+CzHsBCrTBm36890foTOELY=
+github.com/go-regexp/engine v0.1.3 h1:0U5DrrBEYjNX/f0yFESpQDWmJOtXmmZqluNAUBXjfxY=
+github.com/go-regexp/engine v0.1.3/go.mod h1:8rju5lq5OkskQh9+m+FjBP6965giMPUdIOdrvFrbqn4=
 github.com/go-ruby-abbrev/abbrev v0.0.0-20260629150957-97117892cd38 h1:j0VAUKCGNUTZVThG4Pi3pgdHXFybwXnY7anpYuKeuH4=
 github.com/go-ruby-abbrev/abbrev v0.0.0-20260629150957-97117892cd38/go.mod h1:PgAtItdQBv87Wog0Q7rnbwhqsupDC0pDXDlZgSv6nvA=
 github.com/go-ruby-abbrev/abbrev v0.0.0-20260717061206-761e82f6c6c3 h1:Kr5v05FTYGi4hzkAw5r+uNlRRX0mBS6nnL1Nom9Yzwc=
@@ -122,6 +124,8 @@ github.com/go-ruby-rational/rational v0.0.0-20260717073030-5199d6c61f15 h1:Glgli
 github.com/go-ruby-rational/rational v0.0.0-20260717073030-5199d6c61f15/go.mod h1:HTFcXF2Hj8nMePdHTwKH+SFENxEXNDhrKaoMe290KnI=
 github.com/go-ruby-regexp/regexp v0.0.0-20260701043846-fa3d6604e1ee h1:ctauEAdAq129WCrU+dndYcOjNlo1Y94vWNBtgXp1heE=
 github.com/go-ruby-regexp/regexp v0.0.0-20260701043846-fa3d6604e1ee/go.mod h1:+0nK2X+aCPMO91bPMM/DT1OFUIzFQeoTPGkkOR3kd84=
+github.com/go-ruby-regexp/regexp v0.0.0-20260831115702-e14375e92d68 h1:Jw8B4iEM1qD4Jp2EhcSoZAmBgs/ZDVJW/kRyCtfqIy0=
+github.com/go-ruby-regexp/regexp v0.0.0-20260831115702-e14375e92d68/go.mod h1:I3i2r1AXulgMBt/KiWBcxjnoNsB09ZFKkj2Vb5Mhzuw=
 github.com/go-ruby-resolv/resolv v0.0.0-20260629153520-df410a5796ac h1:Y++tdsBF6lA/cw3c9uQ/ZyQZjP2N3wkA6pLF8a3HnHc=
 github.com/go-ruby-resolv/resolv v0.0.0-20260629153520-df410a5796ac/go.mod h1:RD3wPeMjMThQ7QVnB9O15gCllRg+RJhSEJu9DtFaLLQ=
 github.com/go-ruby-resolv/resolv v0.0.0-20260717073312-9fce615a7c36 h1:zY5BG7oDm17uAeOtujn/1/UEGXlav0cjXbZy8cQmZ0k=
@@ -144,6 +148,8 @@ github.com/go-ruby-stringio/stringio v0.0.0-20260629145734-db9b0b95e303 h1:8kZAg
 github.com/go-ruby-stringio/stringio v0.0.0-20260629145734-db9b0b95e303/go.mod h1:X+WdqcNFxpWwOTku5BB1fefeDevRFVJ4tiXEpeRWtZk=
 github.com/go-ruby-strscan/strscan v0.0.0-20260701044334-d0cc926643a8 h1:WxInOHCeP0EDmZqorooXIYTcDgBNm+3rOnfjRcWHlN0=
 github.com/go-ruby-strscan/strscan v0.0.0-20260701044334-d0cc926643a8/go.mod h1:WNa2NtlvT8gaOrAw6m3VCb+8WgBWdOLLEWbKiugZ2wY=
+github.com/go-ruby-strscan/strscan v0.0.0-20260901145237-ccc695a615fd h1:Ms4leT+FVerjmaQGm/hBLZk1FbLShmnASzhMBk20aj4=
+github.com/go-ruby-strscan/strscan v0.0.0-20260901145237-ccc695a615fd/go.mod h1:7ZDv0gKkkx+fIiUZfpMY8HIqebGzvXSrCIm0xEEg/ik=
 github.com/go-ruby-time/time v0.0.0-20260629145843-c41ecfe3e144 h1:h33p+sKyi5u2Dy3anHTNMWwoOQxlBmmZoQmrow88mfI=
 github.com/go-ruby-time/time v0.0.0-20260629145843-c41ecfe3e144/go.mod h1:ySdzVsApzpx+/W/h9++Lr83xb/0y3I5apspJdonKT1Y=
 github.com/go-ruby-time/time v0.0.0-20260717074921-2d91cce39b86 h1:QulM5rupuMg1atityanJ+ArxHH0Lh1ofEhwaeyqydIc=
