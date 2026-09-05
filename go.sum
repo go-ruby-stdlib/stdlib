@@ -162,6 +162,10 @@ github.com/go-ruby-yaml/yaml v0.0.0-20260629093916-8035038027bd h1:4HGjgCdTIuIEM
 github.com/go-ruby-yaml/yaml v0.0.0-20260629093916-8035038027bd/go.mod h1:HtbQgnZpSTJBAhPg1jOKgHycZl3tXgf9ZdOu4dnHWjQ=
 github.com/go-ruby-zlib/zlib v0.0.0-20260630195847-fee6c794df58 h1:shnGftlo6rE/od31Ra8XPEduxyjpCWS0/q56EkkiYjM=
 github.com/go-ruby-zlib/zlib v0.0.0-20260630195847-fee6c794df58/go.mod h1:WGW5hh1yjgYm98zeoraLu8DWJ0iRFSU0fNmK8PXQ43M=
+github.com/go-ruby-zlib/zlib v0.0.0-20260905061644-146cf9612b10 h1:EtuThaOV4ef/NXsB+vu3K4NO2lcSefvoabOic9rv6Iw=
+github.com/go-ruby-zlib/zlib v0.0.0-20260905061644-146cf9612b10/go.mod h1:TevjLWMMhfg6lmCoaFPEhxyZRjannVCR+T0LQ+VFDSE=
+github.com/go-simd/adler32 v0.0.0-20260903215945-099b59e5ad5a h1:sTSDG52aiZiRcS5Sa04NTj3GzNedqYO9++D346hnC1o=
+github.com/go-simd/adler32 v0.0.0-20260903215945-099b59e5ad5a/go.mod h1:OdY6ycir7lCBFGikHeQknPc2WbKOdGtuP7cUJL3NT+E=
 github.com/go-simd/base64 v0.0.0-20260627054622-4058a7093f4c h1:iA1vHw+pR44TUtDlviXz3P8pAExO1nSm39PMZ7MsuYU=
 github.com/go-simd/base64 v0.0.0-20260627054622-4058a7093f4c/go.mod h1:/nL/YHcchLkENbcFEEqAcfESIiwCM9/1H67LsSnd7EI=
 github.com/go-simd/base64 v0.0.0-20260703160615-1d0b2dddc996 h1:q3fyZ61j/I6dilPPgLHSTohxpDXPewe4Nnp7FQ4oJgE=
@@ -172,10 +176,14 @@ github.com/go-simd/base64 v0.0.0-20260830080008-dcbe0eea954f h1:tw5KWseIlaaiuu5c
 github.com/go-simd/base64 v0.0.0-20260830080008-dcbe0eea954f/go.mod h1:JNDIFvYDNtSrY/ZjKA8M/O2ggXtAYuxQzsxQ51TvjE0=
 github.com/go-simd/base64 v0.0.0-20260830212547-2fee128e345a h1:wMhy2Tf8691MgS4tRmIxPlX3x42OdE3F6VnzXbFqS04=
 github.com/go-simd/base64 v0.0.0-20260830212547-2fee128e345a/go.mod h1:P2YPxBiS0h0R01P7Cqrhj4cZHKiacpO3Z2qLE3RflOQ=
+github.com/go-simd/crc32 v0.0.0-20260903220012-5f164e0e0487 h1:6JZ4TKf3j6y7xS9meu2MBQZHkkeebFWiQo8x2htKfd0=
+github.com/go-simd/crc32 v0.0.0-20260903220012-5f164e0e0487/go.mod h1:lickteAl0z3L24ypOqBe0AwoHPMMxxpYcxJu72aO1kw=
 github.com/go-simd/hex v0.0.0-20260627054622-d04d429c6aea h1:qVh9jV1QriPPfKtAb8au5pmVxKDk5Vl4nQUi/issQM0=
 github.com/go-simd/hex v0.0.0-20260627054622-d04d429c6aea/go.mod h1:q2/BdGuWJ9RahGzN+s+KtyacBAZFX15Nq0IikPFwKw0=
 github.com/klauspost/compress v1.18.7 h1:aUyZsS4kH3QTKurYhAOwAHxllVPnOthb3vPfnF1Ehjw=
 github.com/klauspost/compress v1.18.7/go.mod h1:cwPg85FWrGar70rWktvGQj8/hthj3wpl0PGDogxkrSQ=
+github.com/klauspost/compress v1.20.0 h1:a3C1ke2ohxFymNlb2HWAHjDeKCI90scRskErZkR0ezA=
+github.com/klauspost/compress v1.20.0/go.mod h1:LUdAzn7YLVvxLpc7y3V1m40wESHTgc1422pwwBSKYuI=
 github.com/tmthrgd/go-hex v0.0.0-20190904060850-447a3041c3bc h1:9lRDQMhESg+zvGYmW5DyG0UqvY96Bu5QYsTLvCHdrgo=
 github.com/tmthrgd/go-hex v0.0.0-20190904060850-447a3041c3bc/go.mod h1:bciPuU6GHm1iF1pBvUfxfsH0Wmnc2VbpgvbI9ZWuIRs=
 golang.org/x/crypto v0.53.0 h1:QZ4Muo8THX6CizN2vPPd5fBGHyogrdK9fG4wLPFUsto=

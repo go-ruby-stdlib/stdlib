@@ -45,13 +45,15 @@ require (
 	github.com/go-ruby-unicode-normalize/unicode-normalize v0.0.0-20260824160327-bc72224e43ad
 	github.com/go-ruby-uri/uri v0.0.0-20260629113958-59633d1b0deb
 	github.com/go-ruby-yaml/yaml v0.0.0-20260629093916-8035038027bd
-	github.com/go-ruby-zlib/zlib v0.0.0-20260630195847-fee6c794df58
+	github.com/go-ruby-zlib/zlib v0.0.0-20260905061644-146cf9612b10
 )
 
 require (
+	github.com/go-simd/adler32 v0.0.0-20260903215945-099b59e5ad5a // indirect
 	github.com/go-simd/base64 v0.0.0-20260830212547-2fee128e345a // indirect
+	github.com/go-simd/crc32 v0.0.0-20260903220012-5f164e0e0487 // indirect
 	github.com/go-simd/hex v0.0.0-20260627054622-d04d429c6aea // indirect
-	github.com/klauspost/compress v1.18.7 // indirect
+	github.com/klauspost/compress v1.20.0 // indirect
 	golang.org/x/crypto v0.55.0 // indirect
 	golang.org/x/sys v0.47.0 // indirect
 	golang.org/x/text v0.41.0 // indirect
