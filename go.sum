@@ -134,6 +134,8 @@ github.com/go-ruby-scanf/scanf v0.0.0-20260717073842-238d8003a8eb h1:D7UOhzi1k+f
 github.com/go-ruby-scanf/scanf v0.0.0-20260717073842-238d8003a8eb/go.mod h1:UpBHz/Hf4Q8h14UpfJ5Cpp+OxVEqqNuICXGnUjg2dKc=
 github.com/go-ruby-securerandom/securerandom v0.0.0-20260630081933-3f81ff7d7fb0 h1:NDJ7mJ3uMoysAoBRMJJNr0RRbqLfzp+8flALEeOuahI=
 github.com/go-ruby-securerandom/securerandom v0.0.0-20260630081933-3f81ff7d7fb0/go.mod h1:xjx6gnzA3xXHkJrJFQDp1pW559J3kJR2e6GPctYg4K4=
+github.com/go-ruby-securerandom/securerandom v0.0.0-20260905061628-034ffbd65cbb h1:Tos99vsfzRLoOazJ9DgjH7bqp1fDvJ4AxxVaZCADYWI=
+github.com/go-ruby-securerandom/securerandom v0.0.0-20260905061628-034ffbd65cbb/go.mod h1:yW5SeOVboTtQaI9Qe/cbPjn4LBVccwhIGsXwCHQznHg=
 github.com/go-ruby-set/set v0.0.0-20260630204346-ab6a8a92a910 h1:Q41u365suJ1TlrX2mlVHOGBmW904Lwh3mo+WnlVPtno=
 github.com/go-ruby-set/set v0.0.0-20260630204346-ab6a8a92a910/go.mod h1:F/P0PXeE5ybEPeWYfb1JAKWny1Li3dnlm6YxG2/vffE=
 github.com/go-ruby-set/set v0.0.0-20260717074035-1da624a8b0b2 h1:5cD4carf4EMh0969Mb13rUzYe5cj9mcIpoF7BuhCmJs=
@@ -172,8 +174,12 @@ github.com/go-simd/base64 v0.0.0-20260830080008-dcbe0eea954f h1:tw5KWseIlaaiuu5c
 github.com/go-simd/base64 v0.0.0-20260830080008-dcbe0eea954f/go.mod h1:JNDIFvYDNtSrY/ZjKA8M/O2ggXtAYuxQzsxQ51TvjE0=
 github.com/go-simd/base64 v0.0.0-20260830212547-2fee128e345a h1:wMhy2Tf8691MgS4tRmIxPlX3x42OdE3F6VnzXbFqS04=
 github.com/go-simd/base64 v0.0.0-20260830212547-2fee128e345a/go.mod h1:P2YPxBiS0h0R01P7Cqrhj4cZHKiacpO3Z2qLE3RflOQ=
+github.com/go-simd/base64 v0.0.0-20260901145456-eb8404bccc8f h1:sfv1tO3vPwaD0uTTJcGWgwDYLKmcILOyL8fziNUKHY4=
+github.com/go-simd/base64 v0.0.0-20260901145456-eb8404bccc8f/go.mod h1:P2YPxBiS0h0R01P7Cqrhj4cZHKiacpO3Z2qLE3RflOQ=
 github.com/go-simd/hex v0.0.0-20260627054622-d04d429c6aea h1:qVh9jV1QriPPfKtAb8au5pmVxKDk5Vl4nQUi/issQM0=
 github.com/go-simd/hex v0.0.0-20260627054622-d04d429c6aea/go.mod h1:q2/BdGuWJ9RahGzN+s+KtyacBAZFX15Nq0IikPFwKw0=
+github.com/go-simd/hex v0.0.0-20260903220024-a8d22a843218 h1:TymapuhKzqUf8LNtsv8L4PJY/gz5bAaEbD2cpot1vFI=
+github.com/go-simd/hex v0.0.0-20260903220024-a8d22a843218/go.mod h1:ZwRN06+N0wTIjn+mxT2NF/CbzTMAlfH/c0CKG8q5cwU=
 github.com/klauspost/compress v1.18.7 h1:aUyZsS4kH3QTKurYhAOwAHxllVPnOthb3vPfnF1Ehjw=
 github.com/klauspost/compress v1.18.7/go.mod h1:cwPg85FWrGar70rWktvGQj8/hthj3wpl0PGDogxkrSQ=
 github.com/tmthrgd/go-hex v0.0.0-20190904060850-447a3041c3bc h1:9lRDQMhESg+zvGYmW5DyG0UqvY96Bu5QYsTLvCHdrgo=
