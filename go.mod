@@ -33,7 +33,7 @@ require (
 	github.com/go-ruby-rational/rational v0.0.0-20260717073030-5199d6c61f15
 	github.com/go-ruby-regexp/regexp v0.0.0-20260701043846-fa3d6604e1ee
 	github.com/go-ruby-resolv/resolv v0.0.0-20260717073312-9fce615a7c36
-	github.com/go-ruby-rexml/rexml v0.0.0-20260629154021-5fb0f287ee8b
+	github.com/go-ruby-rexml/rexml v0.0.0-20260717073406-283af9b32a91
 	github.com/go-ruby-scanf/scanf v0.0.0-20260717073842-238d8003a8eb
 	github.com/go-ruby-securerandom/securerandom v0.0.0-20260630081933-3f81ff7d7fb0
 	github.com/go-ruby-set/set v0.0.0-20260717074035-1da624a8b0b2
