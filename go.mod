@@ -40,7 +40,7 @@ require (
 	github.com/go-ruby-shellwords/shellwords v0.0.0-20260629114104-e941e4210818
 	github.com/go-ruby-stringio/stringio v0.0.0-20260629145734-db9b0b95e303
 	github.com/go-ruby-strscan/strscan v0.0.0-20260701044334-d0cc926643a8
-	github.com/go-ruby-time/time v0.0.0-20260629145843-c41ecfe3e144
+	github.com/go-ruby-time/time v0.0.0-20260717074921-2d91cce39b86
 	github.com/go-ruby-tsort/tsort v0.0.0-20260717075041-e5642bd3f641
 	github.com/go-ruby-unicode-normalize/unicode-normalize v0.0.0-20260824160327-bc72224e43ad
 	github.com/go-ruby-uri/uri v0.0.0-20260629113958-59633d1b0deb
