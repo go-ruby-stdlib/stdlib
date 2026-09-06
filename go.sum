@@ -158,6 +158,8 @@ github.com/go-ruby-unicode-normalize/unicode-normalize v0.0.0-20260824160327-bc7
 github.com/go-ruby-unicode-normalize/unicode-normalize v0.0.0-20260824160327-bc72224e43ad/go.mod h1:QCEvsoKiiAPdJNxsW1HEgVyTQ4NHHeXtcf8pGgW4z3U=
 github.com/go-ruby-uri/uri v0.0.0-20260629113958-59633d1b0deb h1:CyoFEEsMPa/TX4EJHOPsXud3nccESDhaW6fTQsidIKI=
 github.com/go-ruby-uri/uri v0.0.0-20260629113958-59633d1b0deb/go.mod h1:/7+NF+4kESzcNHjRtNe/lAfhgHpgElX4C+VNo0xsb6Y=
+github.com/go-ruby-uri/uri v0.0.0-20260717075231-3bc88781d7e3 h1:+jmJYac7ItWX5wu4pWaB1oNAyOX03RDExlrTlKnLpSo=
+github.com/go-ruby-uri/uri v0.0.0-20260717075231-3bc88781d7e3/go.mod h1:/7+NF+4kESzcNHjRtNe/lAfhgHpgElX4C+VNo0xsb6Y=
 github.com/go-ruby-yaml/yaml v0.0.0-20260629093916-8035038027bd h1:4HGjgCdTIuIEM+iZXJ9hJJzt0IBMtxPqdJq72mr0Y64=
 github.com/go-ruby-yaml/yaml v0.0.0-20260629093916-8035038027bd/go.mod h1:HtbQgnZpSTJBAhPg1jOKgHycZl3tXgf9ZdOu4dnHWjQ=
 github.com/go-ruby-zlib/zlib v0.0.0-20260630195847-fee6c794df58 h1:shnGftlo6rE/od31Ra8XPEduxyjpCWS0/q56EkkiYjM=
