@@ -142,6 +142,8 @@ github.com/go-ruby-shellwords/shellwords v0.0.0-20260629114104-e941e4210818 h1:z
 github.com/go-ruby-shellwords/shellwords v0.0.0-20260629114104-e941e4210818/go.mod h1:gJ+9ba+y8+DKenwjZKbTLVSuX6Xp7V5R7pZ6NwtD6x0=
 github.com/go-ruby-stringio/stringio v0.0.0-20260629145734-db9b0b95e303 h1:8kZAgBT5jV1Q9RVCKgEpqZku8QI3n2qviQU9xlI3sKk=
 github.com/go-ruby-stringio/stringio v0.0.0-20260629145734-db9b0b95e303/go.mod h1:X+WdqcNFxpWwOTku5BB1fefeDevRFVJ4tiXEpeRWtZk=
+github.com/go-ruby-stringio/stringio v0.0.0-20260717074730-69daeb97cdf3 h1:gPHFuxt7k2Q2SwWCKCsug3UyWRmrugxY/qSQ8ogXZ/s=
+github.com/go-ruby-stringio/stringio v0.0.0-20260717074730-69daeb97cdf3/go.mod h1:X+WdqcNFxpWwOTku5BB1fefeDevRFVJ4tiXEpeRWtZk=
 github.com/go-ruby-strscan/strscan v0.0.0-20260701044334-d0cc926643a8 h1:WxInOHCeP0EDmZqorooXIYTcDgBNm+3rOnfjRcWHlN0=
 github.com/go-ruby-strscan/strscan v0.0.0-20260701044334-d0cc926643a8/go.mod h1:WNa2NtlvT8gaOrAw6m3VCb+8WgBWdOLLEWbKiugZ2wY=
 github.com/go-ruby-time/time v0.0.0-20260629145843-c41ecfe3e144 h1:h33p+sKyi5u2Dy3anHTNMWwoOQxlBmmZoQmrow88mfI=
