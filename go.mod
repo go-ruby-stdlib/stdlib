@@ -31,7 +31,7 @@ require (
 	github.com/go-ruby-prime/prime v0.0.0-20260717072153-520610c103fc
 	github.com/go-ruby-pstore/pstore v0.0.0-20260825110359-e874d1551968
 	github.com/go-ruby-rational/rational v0.0.0-20260717073030-5199d6c61f15
-	github.com/go-ruby-regexp/regexp v0.0.0-20260701043846-fa3d6604e1ee
+	github.com/go-ruby-regexp/regexp v0.0.0-20260831115702-e14375e92d68
 	github.com/go-ruby-resolv/resolv v0.0.0-20260717073312-9fce615a7c36
 	github.com/go-ruby-rexml/rexml v0.0.0-20260629154021-5fb0f287ee8b
 	github.com/go-ruby-scanf/scanf v0.0.0-20260717073842-238d8003a8eb
@@ -39,7 +39,7 @@ require (
 	github.com/go-ruby-set/set v0.0.0-20260717074035-1da624a8b0b2
 	github.com/go-ruby-shellwords/shellwords v0.0.0-20260629114104-e941e4210818
 	github.com/go-ruby-stringio/stringio v0.0.0-20260717074730-69daeb97cdf3
-	github.com/go-ruby-strscan/strscan v0.0.0-20260701044334-d0cc926643a8
+	github.com/go-ruby-strscan/strscan v0.0.0-20260901145237-ccc695a615fd
 	github.com/go-ruby-time/time v0.0.0-20260717074921-2d91cce39b86
 	github.com/go-ruby-tsort/tsort v0.0.0-20260717075041-e5642bd3f641
 	github.com/go-ruby-unicode-normalize/unicode-normalize v0.0.0-20260824160327-bc72224e43ad
@@ -49,6 +49,7 @@ require (
 )
 
 require (
+	github.com/go-regexp/engine v0.1.3 // indirect
 	github.com/go-simd/adler32 v0.0.0-20260903215945-099b59e5ad5a // indirect
 	github.com/go-simd/base64 v0.0.0-20260903220000-c04f5883bb18 // indirect
 	github.com/go-simd/crc32 v0.0.0-20260903220012-5f164e0e0487 // indirect
