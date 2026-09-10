@@ -13,7 +13,7 @@ require (
 	github.com/go-ruby-csv/csv v0.0.0-20260717063450-c0e361e4d3ee
 	github.com/go-ruby-date/date v0.0.0-20260717063625-7b8321539439
 	github.com/go-ruby-did-you-mean/did-you-mean v0.0.0-20260717063932-c1bcb7f2c2eb
-	github.com/go-ruby-digest/digest v0.0.0-20260903192710-f831cb18da00
+	github.com/go-ruby-digest/digest v0.0.0-20260910085258-374a86cf6865
 	github.com/go-ruby-erb/erb v0.0.0-20260717064518-1e3bc0812b45
 	github.com/go-ruby-find/find v0.0.0-20260717064950-d884f04350dc
 	github.com/go-ruby-format/format v0.0.0-20260831115501-f58c7d12507c
@@ -55,7 +55,7 @@ require (
 	github.com/go-simd/crc32 v0.0.0-20260903220012-5f164e0e0487 // indirect
 	github.com/go-simd/hex v0.0.0-20260627054622-d04d429c6aea // indirect
 	github.com/klauspost/compress v1.20.0 // indirect
-	golang.org/x/crypto v0.56.0 // indirect
-	golang.org/x/sys v0.47.0 // indirect
-	golang.org/x/text v0.41.0 // indirect
+	golang.org/x/crypto v0.57.0 // indirect
+	golang.org/x/sys v0.48.0 // indirect
+	golang.org/x/text v0.42.0 // indirect
 )
