@@ -42,7 +42,7 @@ require (
 	github.com/go-ruby-strscan/strscan v0.0.0-20260901145237-ccc695a615fd
 	github.com/go-ruby-time/time v0.0.0-20260717074921-2d91cce39b86
 	github.com/go-ruby-tsort/tsort v0.0.0-20260717075041-e5642bd3f641
-	github.com/go-ruby-unicode-normalize/unicode-normalize v0.0.0-20260824160327-bc72224e43ad
+	github.com/go-ruby-unicode-normalize/unicode-normalize v0.0.0-20260910095600-14ec60507c02
 	github.com/go-ruby-uri/uri v0.0.0-20260717075231-3bc88781d7e3
 	github.com/go-ruby-yaml/yaml v0.0.0-20260804155707-9c1d94ea2290
 	github.com/go-ruby-zlib/zlib v0.0.0-20260905061644-146cf9612b10
@@ -57,5 +57,5 @@ require (
 	github.com/klauspost/compress v1.20.0 // indirect
 	golang.org/x/crypto v0.56.0 // indirect
 	golang.org/x/sys v0.47.0 // indirect
-	golang.org/x/text v0.41.0 // indirect
+	golang.org/x/text v0.42.0 // indirect
 )
