@@ -28,6 +28,8 @@ github.com/go-ruby-bigdecimal/bigdecimal v0.0.0-20260629113642-660c01ff39c4 h1:X
 github.com/go-ruby-bigdecimal/bigdecimal v0.0.0-20260629113642-660c01ff39c4/go.mod h1:op9nu6Z2gvH8/phs7iJZQWNvUnT2DkJV8wBAl1l0kfE=
 github.com/go-ruby-bigdecimal/bigdecimal v0.0.0-20260717062419-05e9199217e8 h1:mGbEqa3C0JiCbewQgdClFdA6kUpyptPAzyF0yhQpbYA=
 github.com/go-ruby-bigdecimal/bigdecimal v0.0.0-20260717062419-05e9199217e8/go.mod h1:op9nu6Z2gvH8/phs7iJZQWNvUnT2DkJV8wBAl1l0kfE=
+github.com/go-ruby-bigdecimal/bigdecimal v0.0.0-20260916091144-b31c0a1caac2 h1:zo7WF/+KG9X0TeWzxNwKq5TBsIoBx9R39lyU05uhKH8=
+github.com/go-ruby-bigdecimal/bigdecimal v0.0.0-20260916091144-b31c0a1caac2/go.mod h1:op9nu6Z2gvH8/phs7iJZQWNvUnT2DkJV8wBAl1l0kfE=
 github.com/go-ruby-cgi/cgi v0.0.0-20260629151926-ac1c4d37a56c h1:6YAo3FKzJJbQdLbvxHy7I4ur5+R+pLLMWwKXXLnWcQU=
 github.com/go-ruby-cgi/cgi v0.0.0-20260629151926-ac1c4d37a56c/go.mod h1:TAIxiFMAj68dWClzEmDY1vCSNFiPfupD3HRADRXrkZw=
 github.com/go-ruby-cgi/cgi v0.0.0-20260717062833-adf35051de76 h1:EpBN2SKNpUJQvOHxMTZtNvLsMoFkypc9HtlRi40F720=
