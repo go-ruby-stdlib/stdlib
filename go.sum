@@ -72,6 +72,8 @@ github.com/go-ruby-format/format v0.0.0-20260815195335-4038d17b79a1 h1:TgyhqiG4M
 github.com/go-ruby-format/format v0.0.0-20260815195335-4038d17b79a1/go.mod h1:1tuz12SHPOcnFSfdPYRFwVvRhMT4Xn4M4jfPFgM7pLA=
 github.com/go-ruby-format/format v0.0.0-20260831115501-f58c7d12507c h1:ffhla/GiFfRo9sfePiyW9kvXOx/Y0GYhIk+vinmBgTs=
 github.com/go-ruby-format/format v0.0.0-20260831115501-f58c7d12507c/go.mod h1:1tuz12SHPOcnFSfdPYRFwVvRhMT4Xn4M4jfPFgM7pLA=
+github.com/go-ruby-format/format v0.0.0-20260916093306-887300990e07 h1:jPTvLfwlvAoa6GTyU9dZ5EW102x+6GC+sC3b9qrS61A=
+github.com/go-ruby-format/format v0.0.0-20260916093306-887300990e07/go.mod h1:1tuz12SHPOcnFSfdPYRFwVvRhMT4Xn4M4jfPFgM7pLA=
 github.com/go-ruby-getoptlong/getoptlong v0.0.0-20260629150025-1a1bfd19bc49 h1:v2Cy3bZTTi+u9XKBRP8FmYHwsWwZ+t8hlh3s4i1gGfQ=
 github.com/go-ruby-getoptlong/getoptlong v0.0.0-20260629150025-1a1bfd19bc49/go.mod h1:nGvVSBSIsYrhM2qs4yQ2k8uDbXCFPWQXXqkowleHMDs=
 github.com/go-ruby-getoptlong/getoptlong v0.0.0-20260717065132-86577a8b648f h1:8XSjphvk/cjo1PykwmOP1nlPdElZWmF4kD9vE9krkic=
