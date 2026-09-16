@@ -17,7 +17,7 @@ require (
 	github.com/go-ruby-erb/erb v0.0.0-20260717064518-1e3bc0812b45
 	github.com/go-ruby-find/find v0.0.0-20260717064950-d884f04350dc
 	github.com/go-ruby-format/format v0.0.0-20260831115501-f58c7d12507c
-	github.com/go-ruby-getoptlong/getoptlong v0.0.0-20260717065132-86577a8b648f
+	github.com/go-ruby-getoptlong/getoptlong v0.0.0-20260916093430-ea78ae8c529b
 	github.com/go-ruby-ipaddr/ipaddr v0.0.0-20260717065751-ac3e17f41c3e
 	github.com/go-ruby-json/json v0.0.0-20260803122801-b23aeb96e6ae
 	github.com/go-ruby-logger/logger v0.0.0-20260717070206-b7582341d8fc
