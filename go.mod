@@ -37,7 +37,7 @@ require (
 	github.com/go-ruby-scanf/scanf v0.0.0-20260717073842-238d8003a8eb
 	github.com/go-ruby-securerandom/securerandom v0.0.0-20260630081933-3f81ff7d7fb0
 	github.com/go-ruby-set/set v0.0.0-20260717074035-1da624a8b0b2
-	github.com/go-ruby-shellwords/shellwords v0.0.0-20260629114104-e941e4210818
+	github.com/go-ruby-shellwords/shellwords v0.0.0-20260916102720-dcaddc4ec112
 	github.com/go-ruby-stringio/stringio v0.0.0-20260717074730-69daeb97cdf3
 	github.com/go-ruby-strscan/strscan v0.0.0-20260901145237-ccc695a615fd
 	github.com/go-ruby-time/time v0.0.0-20260717074921-2d91cce39b86
