@@ -44,7 +44,7 @@ require (
 	github.com/go-ruby-tsort/tsort v0.0.0-20260717075041-e5642bd3f641
 	github.com/go-ruby-unicode-normalize/unicode-normalize v0.0.0-20260916103816-ff4e6b030f1f
 	github.com/go-ruby-uri/uri v0.0.0-20260717075231-3bc88781d7e3
-	github.com/go-ruby-yaml/yaml v0.0.0-20260804155707-9c1d94ea2290
+	github.com/go-ruby-yaml/yaml v0.0.0-20260916104302-910ced2db1c7
 	github.com/go-ruby-zlib/zlib v0.0.0-20260905061644-146cf9612b10
 )
 
