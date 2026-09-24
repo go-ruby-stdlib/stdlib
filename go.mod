@@ -20,7 +20,7 @@ require (
 	github.com/go-ruby-getoptlong/getoptlong v0.0.0-20260717065132-86577a8b648f
 	github.com/go-ruby-ipaddr/ipaddr v0.0.0-20260717065751-ac3e17f41c3e
 	github.com/go-ruby-json/json v0.0.0-20260803122801-b23aeb96e6ae
-	github.com/go-ruby-logger/logger v0.0.0-20260717070206-b7582341d8fc
+	github.com/go-ruby-logger/logger v0.0.0-20260916094709-0005da481f56
 	github.com/go-ruby-marshal/marshal v0.0.0-20260820215345-e25f276d2451
 	github.com/go-ruby-matrix/matrix v0.0.0-20260717070327-18d9569abdf3
 	github.com/go-ruby-observer/observer v0.0.0-20260820220157-5e26c6317a28

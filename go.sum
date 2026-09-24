@@ -92,6 +92,8 @@ github.com/go-ruby-logger/logger v0.0.0-20260630081511-870e2ee3f277 h1:XfUzDZqZW
 github.com/go-ruby-logger/logger v0.0.0-20260630081511-870e2ee3f277/go.mod h1:9+5E2AAIpErKRtzJ7zqZSfptjlD/XcD/ni6H9jpO37Y=
 github.com/go-ruby-logger/logger v0.0.0-20260717070206-b7582341d8fc h1:iWYzhXffBOztpp45ePVtGvMeWJhxCuz3zkNdaOYbZAQ=
 github.com/go-ruby-logger/logger v0.0.0-20260717070206-b7582341d8fc/go.mod h1:9+5E2AAIpErKRtzJ7zqZSfptjlD/XcD/ni6H9jpO37Y=
+github.com/go-ruby-logger/logger v0.0.0-20260916094709-0005da481f56 h1:a3lxxOluGfZqog71gSiOwHnwUfImF0SQvo305Ui2YoY=
+github.com/go-ruby-logger/logger v0.0.0-20260916094709-0005da481f56/go.mod h1:9+5E2AAIpErKRtzJ7zqZSfptjlD/XcD/ni6H9jpO37Y=
 github.com/go-ruby-marshal/marshal v0.0.0-20260622114304-27ed1baddd9f h1:IIBuHgiQJbssGPhrUbagvP74febWhmKxiNk7IQq1//g=
 github.com/go-ruby-marshal/marshal v0.0.0-20260622114304-27ed1baddd9f/go.mod h1:UpjSgWGcQSNt0ARWuHKwf0P55LkwZ65vuqoRPSKctZ8=
 github.com/go-ruby-marshal/marshal v0.0.0-20260820215345-e25f276d2451 h1:uuOqNDFJgvAU7OVFn9TLv5r7mMejq20gJRh7EzyW72k=
