@@ -48,6 +48,8 @@ github.com/go-ruby-csv/csv v0.0.0-20260629114549-c624fdf379cc h1:XAxewcVViNLEjBS
 github.com/go-ruby-csv/csv v0.0.0-20260629114549-c624fdf379cc/go.mod h1:vvfFJGcGOK37vnBikohtzboL6dIfbsr54+2Ri0HkWwk=
 github.com/go-ruby-csv/csv v0.0.0-20260717063450-c0e361e4d3ee h1:onqW68bntEame4+iCxLbWPizZ58F1JafoA5OmmF3lM4=
 github.com/go-ruby-csv/csv v0.0.0-20260717063450-c0e361e4d3ee/go.mod h1:vvfFJGcGOK37vnBikohtzboL6dIfbsr54+2Ri0HkWwk=
+github.com/go-ruby-csv/csv v0.0.0-20260916092014-f49077ac37dd h1:plNVYjlP9BRlUbSP7FwmwPK+LVCY4BkYs+ZZZCv40ZQ=
+github.com/go-ruby-csv/csv v0.0.0-20260916092014-f49077ac37dd/go.mod h1:vvfFJGcGOK37vnBikohtzboL6dIfbsr54+2Ri0HkWwk=
 github.com/go-ruby-date/date v0.0.0-20260629114559-23a5251a54e4 h1:Qyl2DRWnEC65Y7EI6TB9vIHzQmkySJrIF5uzBu3YdKw=
 github.com/go-ruby-date/date v0.0.0-20260629114559-23a5251a54e4/go.mod h1:kn4XWlGthyqF+ogp9Tmj9EYLmvZa3Yb9Eqnfdsgu63Y=
 github.com/go-ruby-date/date v0.0.0-20260717063625-7b8321539439 h1:4A+1sF1XpSAwpw6YoTPHzq2gDBbzMFFC3ZIAV8K1hrk=
