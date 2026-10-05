@@ -56,6 +56,8 @@ github.com/go-ruby-prettyprint/prettyprint v0.0.0-20260717072124-c98cbe80c502 h1
 github.com/go-ruby-prettyprint/prettyprint v0.0.0-20260717072124-c98cbe80c502/go.mod h1:SIQyfiIJRKJq0OD9gWYfmvQTdJClJf8z56BsfVVw7rY=
 github.com/go-ruby-prime/prime v0.0.0-20260717072153-520610c103fc h1:n6D8+mmjw0d0YQPt8RLxpQo72KaEhJdAiT9ULyii4xE=
 github.com/go-ruby-prime/prime v0.0.0-20260717072153-520610c103fc/go.mod h1:dG/91hk8HlQ6YAdD64xiMFHTTmXjTWtapKWoG9JtcRA=
+github.com/go-ruby-prime/prime v0.0.0-20261005011615-d62e196814d3 h1:eX020mm6nAAipI4cWDboCcIcZp/cONNDy+5OMmij5g0=
+github.com/go-ruby-prime/prime v0.0.0-20261005011615-d62e196814d3/go.mod h1:IPOtU2lbKoIGVRhkZKwY75ag0jNVdsqTqXUJ5v9LuKs=
 github.com/go-ruby-pstore/pstore v0.0.0-20260825110359-e874d1551968 h1:TRCyv9YPBrf0XRnr8iMfR8a95sIKsZ7uApIwsc7dj7A=
 github.com/go-ruby-pstore/pstore v0.0.0-20260825110359-e874d1551968/go.mod h1:RZGT1vhwpQ5b6jq94ghQkmTE6CMfM6AwsV8MtDA1UfE=
 github.com/go-ruby-rational/rational v0.0.0-20260717073030-5199d6c61f15 h1:GlgliIwqiTzUHlwo3SXQr+5Q6UF0/u9ZPa9LLXhz4bc=
