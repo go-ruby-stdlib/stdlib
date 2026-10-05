@@ -54,6 +54,8 @@ github.com/go-ruby-pathname/pathname v0.0.0-20260717071958-ef9f4ddd9c32 h1:pW+nH
 github.com/go-ruby-pathname/pathname v0.0.0-20260717071958-ef9f4ddd9c32/go.mod h1:IvW5q5Kyl5l3hrYwiHylOEmk5hpGSo7XqcmUXBHF5H0=
 github.com/go-ruby-prettyprint/prettyprint v0.0.0-20260717072124-c98cbe80c502 h1:IWBzDuhzawtJ8ITpbKv+jDCNs8OMPXTgeA/ON34gNqQ=
 github.com/go-ruby-prettyprint/prettyprint v0.0.0-20260717072124-c98cbe80c502/go.mod h1:SIQyfiIJRKJq0OD9gWYfmvQTdJClJf8z56BsfVVw7rY=
+github.com/go-ruby-prettyprint/prettyprint v0.0.0-20261005011525-3ea71469d7a2 h1:5VYQ0EeEuOkM8eXJQB3rJGnyWloDjk4a08zZJPFzuKo=
+github.com/go-ruby-prettyprint/prettyprint v0.0.0-20261005011525-3ea71469d7a2/go.mod h1:3Y9EuIgdctjs00vbpYZagw0UqxNrQFeXDnss4jINjko=
 github.com/go-ruby-prime/prime v0.0.0-20260717072153-520610c103fc h1:n6D8+mmjw0d0YQPt8RLxpQo72KaEhJdAiT9ULyii4xE=
 github.com/go-ruby-prime/prime v0.0.0-20260717072153-520610c103fc/go.mod h1:dG/91hk8HlQ6YAdD64xiMFHTTmXjTWtapKWoG9JtcRA=
 github.com/go-ruby-pstore/pstore v0.0.0-20260825110359-e874d1551968 h1:TRCyv9YPBrf0XRnr8iMfR8a95sIKsZ7uApIwsc7dj7A=
