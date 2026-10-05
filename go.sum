@@ -50,6 +50,8 @@ github.com/go-ruby-optparse/optparse v0.0.0-20260717071632-da8194087eaf h1:48jiV
 github.com/go-ruby-optparse/optparse v0.0.0-20260717071632-da8194087eaf/go.mod h1:BxhqkQFCqSMeYeWOHt7sdxTSkbaSJF19dWzspICZL1Q=
 github.com/go-ruby-ostruct/ostruct v0.0.0-20260820220107-4de11f016237 h1:3VgQXN1u/xQQ3AauWol2ZfByyb5M+wwUSQxw3uFAHx0=
 github.com/go-ruby-ostruct/ostruct v0.0.0-20260820220107-4de11f016237/go.mod h1:WkHaYzJJba7jbtNmSXYztEF9tPOWgUv32ox47v1+AZc=
+github.com/go-ruby-ostruct/ostruct v0.0.0-20261004235033-c13e0df4bc07 h1:UDtwW/C4bTaLFZYb9sNXlfLNVMVUzr2f6uEVc65syf8=
+github.com/go-ruby-ostruct/ostruct v0.0.0-20261004235033-c13e0df4bc07/go.mod h1:QanDAdSPRhfOL9OGql+pqGUu0X7bYDpgDz1W8YSfeC4=
 github.com/go-ruby-pathname/pathname v0.0.0-20260717071958-ef9f4ddd9c32 h1:pW+nH9H0sRe9FixkM/BTUbdwFl4nMfAvt4eetzcv1/g=
 github.com/go-ruby-pathname/pathname v0.0.0-20260717071958-ef9f4ddd9c32/go.mod h1:IvW5q5Kyl5l3hrYwiHylOEmk5hpGSo7XqcmUXBHF5H0=
 github.com/go-ruby-prettyprint/prettyprint v0.0.0-20260717072124-c98cbe80c502 h1:IWBzDuhzawtJ8ITpbKv+jDCNs8OMPXTgeA/ON34gNqQ=
