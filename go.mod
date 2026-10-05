@@ -1,6 +1,6 @@
 module github.com/go-ruby-stdlib/stdlib
 
-go 1.26.4
+go 1.27.1
 
 require (
 	github.com/go-ruby-abbrev/abbrev v0.0.0-20260717061206-761e82f6c6c3
