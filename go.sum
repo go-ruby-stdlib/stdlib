@@ -28,6 +28,8 @@ github.com/go-ruby-digest/digest v0.0.0-20260903192710-f831cb18da00 h1:sSXMflvqS
 github.com/go-ruby-digest/digest v0.0.0-20260903192710-f831cb18da00/go.mod h1:k+KU6sWXxDnfKAyygqyp+vaDJBnXHvi9hGvgSbRD/o0=
 github.com/go-ruby-erb/erb v0.0.0-20260717064518-1e3bc0812b45 h1:C4HnZxZAm46pyQfkE7ELXCyDisI3Buzg/cR4d2F8dlY=
 github.com/go-ruby-erb/erb v0.0.0-20260717064518-1e3bc0812b45/go.mod h1:HEJVI7jQ/BnjiSiu2Wj934QboEAgdv47RNOqvZb+nRw=
+github.com/go-ruby-erb/erb v0.0.0-20261010105106-490d9be5cd50 h1:P5qOEqd+x5/6g0lL4gNYkTUbABEv9evp1Mvh7ZtspJI=
+github.com/go-ruby-erb/erb v0.0.0-20261010105106-490d9be5cd50/go.mod h1:9IzZ2CwAFLm9xwrQXX2vL6nLrY4JWL3ZkMok4+IyfQA=
 github.com/go-ruby-find/find v0.0.0-20260916093229-03f8985707b5 h1:3UiJEH7DMbS7uJal9QdjTEQ0b1y7Gprpt2uT+8yO4bY=
 github.com/go-ruby-find/find v0.0.0-20260916093229-03f8985707b5/go.mod h1:wpq0ciEFn8zUc1vfuHRjF2U8mH0krhJCRHHr+JOGaEY=
 github.com/go-ruby-format/format v0.0.0-20260831115501-f58c7d12507c h1:ffhla/GiFfRo9sfePiyW9kvXOx/Y0GYhIk+vinmBgTs=
