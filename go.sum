@@ -10,6 +10,8 @@ github.com/go-ruby-base64/base64 v0.0.0-20260916090912-e1e211a81fd1 h1:o67TKyiWE
 github.com/go-ruby-base64/base64 v0.0.0-20260916090912-e1e211a81fd1/go.mod h1:JZf/Kc4NucCOPGiikq72HcKqM81N5xcxZ5QWBqT7fyU=
 github.com/go-ruby-benchmark/benchmark v0.0.0-20260717062257-3cc267fbe9b3 h1:zwiec5z+7x7tGeTc4j9UnCBj7BrEiFpLtedhFRTny8s=
 github.com/go-ruby-benchmark/benchmark v0.0.0-20260717062257-3cc267fbe9b3/go.mod h1:xTLuIsErHXTxzLBJkUz5J07NwY58QJ75j2Ww4DQGFEM=
+github.com/go-ruby-benchmark/benchmark v0.0.0-20261010103308-a232c405ab1c h1:6EZ2e8E+GFPnid8Ij/V0S3wDHQ32mbQVJ+kXyvCDSw0=
+github.com/go-ruby-benchmark/benchmark v0.0.0-20261010103308-a232c405ab1c/go.mod h1:qTE35BIQs9Zj7wXSwcJUCgQX28VtVQrnwBCwHJTL1zM=
 github.com/go-ruby-bigdecimal/bigdecimal v0.0.0-20260916091144-b31c0a1caac2 h1:zo7WF/+KG9X0TeWzxNwKq5TBsIoBx9R39lyU05uhKH8=
 github.com/go-ruby-bigdecimal/bigdecimal v0.0.0-20260916091144-b31c0a1caac2/go.mod h1:op9nu6Z2gvH8/phs7iJZQWNvUnT2DkJV8wBAl1l0kfE=
 github.com/go-ruby-cgi/cgi v0.0.0-20260717062833-adf35051de76 h1:EpBN2SKNpUJQvOHxMTZtNvLsMoFkypc9HtlRi40F720=
