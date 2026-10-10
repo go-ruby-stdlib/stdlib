@@ -44,6 +44,8 @@ github.com/go-ruby-marshal/marshal v0.0.0-20260820215345-e25f276d2451 h1:uuOqNDF
 github.com/go-ruby-marshal/marshal v0.0.0-20260820215345-e25f276d2451/go.mod h1:UpjSgWGcQSNt0ARWuHKwf0P55LkwZ65vuqoRPSKctZ8=
 github.com/go-ruby-matrix/matrix v0.0.0-20260717070327-18d9569abdf3 h1:mouC2fDHVnZNzvFKhjUxyQK8HsJ51AvmSLS9zd/jlo0=
 github.com/go-ruby-matrix/matrix v0.0.0-20260717070327-18d9569abdf3/go.mod h1:ZrmXlz95j9VE3j1bUeq8a5CTWAKoEiYrkh/ON9ns9iE=
+github.com/go-ruby-matrix/matrix v0.0.0-20261010111220-ef9ae0a15839 h1:lyi03b1lsG6eNOz/8SDGglPXs3V0b8aXCO9+YuS/tQg=
+github.com/go-ruby-matrix/matrix v0.0.0-20261010111220-ef9ae0a15839/go.mod h1:wTyPhYUjQbBKbGYBxf7pi3NFhCtzprww+9VA3VittUg=
 github.com/go-ruby-observer/observer v0.0.0-20260820220157-5e26c6317a28 h1:9Iiv/i4gMlFiWyJ1ltuX3mvFnaAnnL4/vyIbougjbNw=
 github.com/go-ruby-observer/observer v0.0.0-20260820220157-5e26c6317a28/go.mod h1:QvbIKqCHbVYFCko+ZlLGzFh6h/K7pqSKGzADrzTUvls=
 github.com/go-ruby-optparse/optparse v0.0.0-20260717071632-da8194087eaf h1:48jiVvMG5OM0DhXLnKEzUtUulPELtx+QASI8KUt5gaQ=
