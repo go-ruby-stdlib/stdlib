@@ -14,6 +14,8 @@ github.com/go-ruby-bigdecimal/bigdecimal v0.0.0-20260916091144-b31c0a1caac2 h1:z
 github.com/go-ruby-bigdecimal/bigdecimal v0.0.0-20260916091144-b31c0a1caac2/go.mod h1:op9nu6Z2gvH8/phs7iJZQWNvUnT2DkJV8wBAl1l0kfE=
 github.com/go-ruby-cgi/cgi v0.0.0-20260717062833-adf35051de76 h1:EpBN2SKNpUJQvOHxMTZtNvLsMoFkypc9HtlRi40F720=
 github.com/go-ruby-cgi/cgi v0.0.0-20260717062833-adf35051de76/go.mod h1:TAIxiFMAj68dWClzEmDY1vCSNFiPfupD3HRADRXrkZw=
+github.com/go-ruby-cgi/cgi v0.0.0-20261010103755-685d7ad9f2b2 h1:6BziH1kKpbwSvK+lXneAfOmBk+eGLT4f9WyvoHokW1A=
+github.com/go-ruby-cgi/cgi v0.0.0-20261010103755-685d7ad9f2b2/go.mod h1:xI23peZu4dyjiBbajk6nyCep86tWMQ9Ay8+PkNPfC8E=
 github.com/go-ruby-cmath/cmath v0.0.0-20260717063021-5f2ebb903ff8 h1:P0341Wa52CVcJhtBn/8uGZdbQM2RFz4wesvzp6Js9o4=
 github.com/go-ruby-cmath/cmath v0.0.0-20260717063021-5f2ebb903ff8/go.mod h1:djGUM2WR7AdnZqeRg/OQ4xVzmsl8PAWQKILX2n/foas=
 github.com/go-ruby-complex/complex v0.0.0-20260717063207-ad262f45ef90 h1:+7S3XskOZttL/zoFHFkMa13l9Z4IK30Am6OXjS6seDo=
