@@ -16,6 +16,8 @@ github.com/go-ruby-cgi/cgi v0.0.0-20260717062833-adf35051de76 h1:EpBN2SKNpUJQvOH
 github.com/go-ruby-cgi/cgi v0.0.0-20260717062833-adf35051de76/go.mod h1:TAIxiFMAj68dWClzEmDY1vCSNFiPfupD3HRADRXrkZw=
 github.com/go-ruby-cmath/cmath v0.0.0-20260717063021-5f2ebb903ff8 h1:P0341Wa52CVcJhtBn/8uGZdbQM2RFz4wesvzp6Js9o4=
 github.com/go-ruby-cmath/cmath v0.0.0-20260717063021-5f2ebb903ff8/go.mod h1:djGUM2WR7AdnZqeRg/OQ4xVzmsl8PAWQKILX2n/foas=
+github.com/go-ruby-cmath/cmath v0.0.0-20261010103922-9168bf461614 h1:uWk4SY28OXUHm126jvbX+gdR59KEAG9U9Snrc8RwX0U=
+github.com/go-ruby-cmath/cmath v0.0.0-20261010103922-9168bf461614/go.mod h1:MLpOgko4tLDKdSaaE/fnwZH90FFAtY1bUUiJF576Fao=
 github.com/go-ruby-complex/complex v0.0.0-20260717063207-ad262f45ef90 h1:+7S3XskOZttL/zoFHFkMa13l9Z4IK30Am6OXjS6seDo=
 github.com/go-ruby-complex/complex v0.0.0-20260717063207-ad262f45ef90/go.mod h1:SlQrQ0OgZRrWi2slZEzjUOPqt09g7NvBmTFXfJRZigY=
 github.com/go-ruby-csv/csv v0.0.0-20260717063450-c0e361e4d3ee h1:onqW68bntEame4+iCxLbWPizZ58F1JafoA5OmmF3lM4=
