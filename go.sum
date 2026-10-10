@@ -36,6 +36,8 @@ github.com/go-ruby-getoptlong/getoptlong v0.0.0-20260717065132-86577a8b648f h1:8
 github.com/go-ruby-getoptlong/getoptlong v0.0.0-20260717065132-86577a8b648f/go.mod h1:nGvVSBSIsYrhM2qs4yQ2k8uDbXCFPWQXXqkowleHMDs=
 github.com/go-ruby-ipaddr/ipaddr v0.0.0-20260717065751-ac3e17f41c3e h1:05rg2MjIKFRsHXfktv+ey/weC5XWc6JsI6nOL4gAUs0=
 github.com/go-ruby-ipaddr/ipaddr v0.0.0-20260717065751-ac3e17f41c3e/go.mod h1:NbAjqDjT7Qx83yBMHYGCfPFzi+iAvQtrE3JT3nqS/+U=
+github.com/go-ruby-ipaddr/ipaddr v0.0.0-20261010110509-96f92f7569a2 h1:Ejpe7fieK6Xh+xEFmcojyUYkK3Dbbk634ZAjkWIyOQ4=
+github.com/go-ruby-ipaddr/ipaddr v0.0.0-20261010110509-96f92f7569a2/go.mod h1:JZ+f4vuCi7447MFjYpv7zSdSRrhAp11B2svjUcWMRm0=
 github.com/go-ruby-json/json v0.0.0-20260803122801-b23aeb96e6ae h1:cmEWSuke12mKpqI+M9gupv+m/4hNx6P1pE21qfO69tc=
 github.com/go-ruby-json/json v0.0.0-20260803122801-b23aeb96e6ae/go.mod h1:nHXcH3zaGNmCslZStZVeylXkv1wLp+nzT6qNj+m+QXU=
 github.com/go-ruby-logger/logger v0.0.0-20260717070206-b7582341d8fc h1:iWYzhXffBOztpp45ePVtGvMeWJhxCuz3zkNdaOYbZAQ=
