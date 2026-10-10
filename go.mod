@@ -3,7 +3,7 @@ module github.com/go-ruby-stdlib/stdlib
 go 1.27.1
 
 require (
-	github.com/go-ruby-abbrev/abbrev v0.0.0-20260717061206-761e82f6c6c3
+	github.com/go-ruby-abbrev/abbrev v0.0.0-20261010102213-4afde4be814a
 	github.com/go-ruby-base64/base64 v0.0.0-20260916090912-e1e211a81fd1
 	github.com/go-ruby-benchmark/benchmark v0.0.0-20260717062257-3cc267fbe9b3
 	github.com/go-ruby-bigdecimal/bigdecimal v0.0.0-20260916091144-b31c0a1caac2
