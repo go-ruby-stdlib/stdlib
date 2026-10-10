@@ -48,6 +48,8 @@ github.com/go-ruby-observer/observer v0.0.0-20260820220157-5e26c6317a28 h1:9Iiv/
 github.com/go-ruby-observer/observer v0.0.0-20260820220157-5e26c6317a28/go.mod h1:QvbIKqCHbVYFCko+ZlLGzFh6h/K7pqSKGzADrzTUvls=
 github.com/go-ruby-optparse/optparse v0.0.0-20260717071632-da8194087eaf h1:48jiVvMG5OM0DhXLnKEzUtUulPELtx+QASI8KUt5gaQ=
 github.com/go-ruby-optparse/optparse v0.0.0-20260717071632-da8194087eaf/go.mod h1:BxhqkQFCqSMeYeWOHt7sdxTSkbaSJF19dWzspICZL1Q=
+github.com/go-ruby-optparse/optparse v0.0.0-20261010112649-09e1902da2f8 h1:NSme83gFDN7FawSN3pr/4mjjntm0z9kGZR0ef19OQv4=
+github.com/go-ruby-optparse/optparse v0.0.0-20261010112649-09e1902da2f8/go.mod h1:2Nr10p0Cs3Z87MHt7pZk/lkDzNygTpia4giO72BjQYM=
 github.com/go-ruby-ostruct/ostruct v0.0.0-20260820220107-4de11f016237 h1:3VgQXN1u/xQQ3AauWol2ZfByyb5M+wwUSQxw3uFAHx0=
 github.com/go-ruby-ostruct/ostruct v0.0.0-20260820220107-4de11f016237/go.mod h1:WkHaYzJJba7jbtNmSXYztEF9tPOWgUv32ox47v1+AZc=
 github.com/go-ruby-pathname/pathname v0.0.0-20260717071958-ef9f4ddd9c32 h1:pW+nH9H0sRe9FixkM/BTUbdwFl4nMfAvt4eetzcv1/g=
