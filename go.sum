@@ -32,6 +32,8 @@ github.com/go-ruby-find/find v0.0.0-20260916093229-03f8985707b5 h1:3UiJEH7DMbS7u
 github.com/go-ruby-find/find v0.0.0-20260916093229-03f8985707b5/go.mod h1:wpq0ciEFn8zUc1vfuHRjF2U8mH0krhJCRHHr+JOGaEY=
 github.com/go-ruby-format/format v0.0.0-20260831115501-f58c7d12507c h1:ffhla/GiFfRo9sfePiyW9kvXOx/Y0GYhIk+vinmBgTs=
 github.com/go-ruby-format/format v0.0.0-20260831115501-f58c7d12507c/go.mod h1:1tuz12SHPOcnFSfdPYRFwVvRhMT4Xn4M4jfPFgM7pLA=
+github.com/go-ruby-format/format v0.0.0-20261010105630-9cf0897fa094 h1:KPPV15PmtiK4i/yfM2OJGVAAJazC6gdAQP+sWxqkrlo=
+github.com/go-ruby-format/format v0.0.0-20261010105630-9cf0897fa094/go.mod h1:XppheIUqyYR5dhpHlAM+LRYtDM0Keqpz4v3nIrbD0n4=
 github.com/go-ruby-getoptlong/getoptlong v0.0.0-20260717065132-86577a8b648f h1:8XSjphvk/cjo1PykwmOP1nlPdElZWmF4kD9vE9krkic=
 github.com/go-ruby-getoptlong/getoptlong v0.0.0-20260717065132-86577a8b648f/go.mod h1:nGvVSBSIsYrhM2qs4yQ2k8uDbXCFPWQXXqkowleHMDs=
 github.com/go-ruby-ipaddr/ipaddr v0.0.0-20260717065751-ac3e17f41c3e h1:05rg2MjIKFRsHXfktv+ey/weC5XWc6JsI6nOL4gAUs0=
